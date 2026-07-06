@@ -1,6 +1,6 @@
 ---
 layout: workshop
-titel: Modulare und wartbare Web-Architektur
+titel: Modulare und wartbare Web-Architekturen
 social-media-untertitel: Vom Spaghetti-Code zur wartbaren Web-Architektur
 datum: 2026-07-07 #
 modul: wt
