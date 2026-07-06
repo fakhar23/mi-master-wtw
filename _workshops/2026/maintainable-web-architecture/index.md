@@ -11,6 +11,7 @@ bildcredits: ChatGPT
 art: workshop
 termin: Dienstag, 7. Juli 2026, 14:30 Uhr
 dauer: 120 Minuten
+raum: 3.215
 ---
 
 ## Modulare und wartbare Web-Architektur
