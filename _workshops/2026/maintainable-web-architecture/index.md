@@ -54,6 +54,10 @@ Um einen direkten und reibungslosen Einstieg in die Praxis zu gewährleisten, so
 ## Material & Dokumentation
 
 - [Workshop-Repository](https://github.com/fakhar23/Workshop-Maintainable-webapp-architecture.git)
+- [Workshop-Folien (Slides)](https://github.com/fakhar23/Workshop-Maintainable-webapp-architecture/blob/main/Slides.pdf)
+
+### Industry Standard Resources
+
 - [MDN Web Docs](https://developer.mozilla.org/en-US/)
 - [Martin Fowler - Software Architecture](https://martinfowler.com/architecture/)
 - [OWASP Secure Coding Practices](https://owasp.org/)
